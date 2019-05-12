@@ -1,3 +1,34 @@
 <resources>
     <string name="app_name">QuizApp</string>
+    <string name="name">Enter your name please</string>
+    <string name="nameofuser">Name</string>
+    <string name="askforquiz">Please answer the following questions:</string>
+    <string name="ankara">Ankara</string>
+    <string name="istanbul">Istanbul</string>
+    <string name="quest1">1- Which country is smallest ?</string>
+    <string name="Singapore">Singapore</string>
+    <string name="Nauru">Nauru</string>
+    <string name="SanMarino">San Marino</string>
+    <string name="Monaco">Monaco</string>
+    <string name="quest2">2- Which planet is the hottest ?</string>
+    <string name="Submit">Submit</string>
+    <string name="Mercury">Mercury</string>
+    <string name="Mars">Mars</string>
+    <string name="Venus">Venus</string>
+    <string name="Jupiter">Jupiter</string>
+    <string name="quest3">3- All variables declared inside interface are implicitly ?</string>
+    <string name="publicValue">public</string>
+    <string name="staticValue">static</string>
+    <string name="privateValue">private</string>
+    <string name="finalValue">final</string>
+    <string name="quest4">4- What temperature is the same in Celsius and Fahrenheit ?</string>
+    <string name="zero">0</string>
+    <string name="OneHundred">+100</string>
+    <string name="PlusFourty">+40</string>
+    <string name="MinusFourty">-40</string>
+    <string name="quest5">5- Which country is not one of the founder members of EU ?</string>
+    <string name="Britin">Great Britain</string>
+    <string name="France">France</string>
+    <string name="German">German</string>
+    <string name="answer_to_all_please">Answer to all questions please!</string>
 </resources>
